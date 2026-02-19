@@ -29,7 +29,7 @@ Pendekatannya unik — alih-alih menggunakan relay yang membutuhkan modifikasi k
       │
       │ PWM Signal
       ▼
-[Servo SG90]
+[Servo MG90S]
       │
       │ Tekan fisik
       ▼
@@ -44,7 +44,7 @@ Pendekatannya unik — alih-alih menggunakan relay yang membutuhkan modifikasi k
 | Komponen | Detail |
 |---|---|
 | Mikrokontroler | ESP32 DevKit V1 |
-| Aktuator | Servo SG90 (Pin GPIO 13) |
+| Aktuator | Servo MG90S |
 | Mekanisme | Servo menekan saklar dinding fisik |
 
 ### Software
